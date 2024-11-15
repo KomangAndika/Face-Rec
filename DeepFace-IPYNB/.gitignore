@@ -3,4 +3,18 @@ nn4.small2.v1.t7
 nn4.small2.v1.t7.zip
 test_data/
 Archive.zip
+cropped_faces/
+Test1.jpeg
+Test2.jpeg
+embeddings.pkl
+output/
+output(dlib+mobilenet)/
+output1.jpg
+output2.jpg
+Test3.jpg
+Test4.jpg
+output3.jpg
+output4.jpg
+face_embeddings/
+face_embeddings_v2/
 
